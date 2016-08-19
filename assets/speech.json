@@ -1,0 +1,62 @@
+{
+	"level1": {
+		"characters": {
+			"Klutcher": [
+				{
+					"text": "Klucher: Casey... (press SPACE to continue)"
+				},
+				{
+					"text": "Klucher: It's your dog, Clarus. The developers took him! He's been kidnapped!!"
+				},
+				{
+					"text": "Klucher: They want - no they NEED code!"
+				},
+				{
+					"text": "Klucher: It seems the only thing that will appease them is writing APIs..."
+				},
+				{
+					"text": "Klucher: With your FISTS! (press F)"
+				}
+			]
+		}
+	},
+	"level2": {
+		"characters": {
+			"tshirt": [
+				{
+					"text": "What's that?"
+				},
+				{
+					"text": "Looks like an Apple t-shirt!"
+				}
+			]
+		}
+	},
+	"level3": {
+		"characters": {
+			"wwdc": [
+				{
+					"text": "Welcome to WWDC 2016."
+				},
+				{
+					"text": "There's a lot of developers here and they need code bad."
+				}
+			]
+		}
+	},
+	"level4": {
+		"characters": {
+			"final": [
+				{
+					"text": "Not so fast, Casey."
+				},
+				{
+					"text": "There is only one more API I need."
+				},
+				{
+					"text": "Please, Casey. Code me."
+				}
+			]
+		}
+	}
+}
